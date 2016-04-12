@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iMIS", "iMIS\iMIS.csproj", "{EC5A1EEA-FE01-41F5-A8E9-D92BAC566D56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iMIS.Tests", "iMIS.Tests\iMIS.Tests.csproj", "{05D7D48D-A3E8-4BAA-B131-0F8003F9A203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5A1EEA-FE01-41F5-A8E9-D92BAC566D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5A1EEA-FE01-41F5-A8E9-D92BAC566D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5A1EEA-FE01-41F5-A8E9-D92BAC566D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5A1EEA-FE01-41F5-A8E9-D92BAC566D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D7D48D-A3E8-4BAA-B131-0F8003F9A203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D7D48D-A3E8-4BAA-B131-0F8003F9A203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D7D48D-A3E8-4BAA-B131-0F8003F9A203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D7D48D-A3E8-4BAA-B131-0F8003F9A203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
